@@ -19,7 +19,7 @@ Aplikasi ini bertujuan untuk memprediksi risiko stunting pada anak-anak berdasar
 PrediksiStunting/
 ├── app.py                  # Aplikasi utama Streamlit
 ├── dataset_stunting.csv    # Dataset stunting (contoh data)
-├── requirnent.txt
+├── requirements.txt
 ```
 
 # ⚙️ Teknologi yang Digunakan
